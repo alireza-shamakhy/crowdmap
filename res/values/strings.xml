@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maven Quickstart</string>
+    <string name="hello">Hello crowdmap!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="id_label">The ID is</string>
+    <string name="id_value">[id]</string>
+    <string name="content_label">The Content is</string>
+    <string name="content_value">[content]</string>
+    <string name="edit_message">Edit Message</string>
+    <string name="title_activity_android_sqlite_tutorial">AndroidSQLiteTutorialActivity</string>
+    <string name="title_activity_sql">SqlActivity</string>
+    <string name="title_activity_sql_lite">SqlLiteActivity</string>
+    <string name="title_activity_mysql">MysqlActivity</string>
+    
+      <string name="button_send">Send</string>
+
+</resources>
